@@ -1,1 +1,1 @@
-# wedding-portfolio-be
+# Wedding Portfolio Backend
